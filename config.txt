@@ -1,0 +1,6 @@
+docker run -d \
+  --name=kibana \
+  --restart=always \
+  -p 5601:5601 \
+  -v /data/elk7/kibana/config/kibana.yml:/usr/share/kibana/config/kibana.yml \
+  kibana:7.5.1
