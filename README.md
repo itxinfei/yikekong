@@ -2,7 +2,7 @@
 
 ![](doc/亿可控.png)
 
-演示地址 ：http://ykk-java.itheima.net
+演示地址 ：https://www-ykk-java.itheima.net/#/login?redirect=%2Fdashboard
 
 ### 一、需求概述
 
